@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"us",
+				"usize"
+			],
+			[
+				"pr",
+				"println!"
+			],
+			[
+				"a",
+				"add_to_waitlist"
+			],
+			[
+				"println",
+				"println"
+			],
+			[
+				"id",
+				"identityid"
+			],
+			[
+				"m",
+				"mobile"
+			],
+			[
+				"f",
+				"finishdate"
+			],
+			[
+				"s",
+				"SUBTASKID"
+			],
+			[
+				"end",
+				"endate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				"Automatic"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build With: RustEnhanced"
+			],
+			[
+				"rustE",
+				"Build With: RustEnhanced - Automatic"
+			],
+			[
+				"setting",
+				"Preferences: Rust Enhanced Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"LSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"remo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"lSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Setting",
+				"Preferences: Settings"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Cargo-r",
+				"Build With: Cargo - Run"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Cargo",
+				"Build With: Cargo - Test"
+			],
+			[
+				"Test",
+				"Build With: Cargo - Test"
+			],
+			[
+				"Run",
+				"Build With: Cargo - Run"
+			],
+			[
+				"Cargo t",
+				"Build With: Cargo - Test"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"Sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"js",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"codeF",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"j",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"Preferences: Pretty JSON Settings"
+			],
+			[
+				"J",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"seach",
+				"File: Search Files"
+			],
+			[
+				"SQL",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"format:",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"u",
+				"UI: Select Color Scheme"
+			],
+			[
+				"E",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"coloer",
+				"UI: Select Color Scheme"
+			],
+			[
+				"LiveReload:",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"set Sysntax: m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"wo r d",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 333.0,
+		"history":
+		[
+			"rustc --explain \"E0435\"",
+			"rustc --explain E0435",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp  = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try           manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\n",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ocean/Documents/workplace/mystudywork/project-rust"
+	],
+	"file_history":
+	[
+		"/Users/ocean/Documents/workplace/mystudywork/project-rust/restaurant/src/main.rs",
+		"/Users/ocean/Documents/workplace/mystudywork/project-rust/restaurant/src/lib.rs",
+		"/Users/ocean/Documents/workplace/mystudywork/project-rust/collections_code/Cargo.toml",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/restaurant/src/lib.rs",
+		"/Users/ocean/Documents/workplace/mystudywork/project-rust/restaurant/src/front_of_house/hosting.rs",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/restaurant/src/main.rs",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/hello-world/.gitignore",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/restaurant/Cargo.toml",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/auto-save/auto_save.sublime-settings",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/User/auto_save.sublime-settings",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/leet-code/src/lib.rs",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/User/LSP.sublime-settings",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/LSP/LSP.sublime-settings",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/Rust技术/Rust环境搭建.md",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/leet-code/src/main.rs",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/leet-code/Cargo.toml",
+		"/Users/ocean/Documents/workplace/mystudywork/rust-project/leet-code/.gitignore",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/ocean/Downloads/channel_v3.json",
+		"/private/etc/hosts",
+		"/Users/ocean/Downloads/s_42439/Info for crack.txt",
+		"/Users/ocean/Downloads/ABBYY_FineReader_OCR_Pro_for_Mac_12/ABBYY FineReader OCR Pro for Mac 12.1.14/Serial.txt",
+		"/Users/ocean/Downloads/finereader15-jihuobuding/使用说明.txt",
+		"/Users/ocean/Downloads/DownBankABBYYFine/使用说明.txt",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/线网问题总结/记录文件/记录.md",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/工作积累.md",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/KeyboardSpellCheck/KeyboardSpellCheck.sublime-settings",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/User/KeyboardSpellCheck.sublime-settings",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/AutoSpell/AutoSpell.sublime-settings",
+		"/Users/ocean/Library/Application Support/Sublime Text/Packages/User/RustAutoComplete.sublime-settings",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR211016.md",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210915.md",
+		"/Users/ocean/Downloads/campaign-用户组维护活动同步报文.txt",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210818.md",
+		"/Users/ocean/Downloads/updateCampaign-用户组权益.txt",
+		"/Users/ocean/Downloads/用户组权益报文_campaign.txt",
+		"/Users/ocean/Downloads/TriggerEventRuleType.java",
+		"/Users/ocean/Documents/workplace/work/svn/CMBS60/20-数据库脚本/01.个人脚本/02.已审核/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_汪洋_CREATE_专区任选活动_ROLLBACK.sql",
+		"/Users/ocean/Documents/workplace/work/svn/CMBS60/20-数据库脚本/01.个人脚本/02.已审核/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_汪洋_CREATE_专区任选活动_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210916.md",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/4d6350d77fef569c3bc2019c38472a04/File/问题1(3).saz",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/bdb358cc9d1056d066bca99783d085f9/File/SANDBOX_SMDB7_CITIC_BR015815_中信小程序一期_贾龙_CREATE_新增礼品卡货架相关五张表_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/svn/CMBS60/20-数据库脚本/01.个人脚本/01.待审核/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_汪洋_CREATE_专区任选活动_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/线网问题总结/记录文件/日志目录.md",
+		"/Users/ocean/Documents/workplace/work/svn/CMBS60/20-数据库脚本/01.个人脚本/01.待审核/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_汪洋_CREATE_专区任选活动_ROLLBACK.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_汪洋_CREATE_新增专区任选活动表_ROLLBACK.sql",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/bdb358cc9d1056d066bca99783d085f9/File/SANDBOX_SMDB7_CITIC_BR015815_中信小程序一期_贾龙_CREATE_新增礼品卡货架相关五张表_ROLLBACK.sql",
+		"/Users/ocean/Documents/workplace/work/svn/CMBS60/20-数据库脚本/01.个人脚本/02.已审核/SANDBOX_SMDB7_CITIC_BR016250_【其它-优化类】【搜索热词推荐】基于算法的热词推荐_何丽娟_CREATE_新增表_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/svn/CMBS60/20-数据库脚本/01.个人脚本/02.已审核/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_朱玲_CREATE_新增表_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/线网相关文档.md",
+		"/Users/ocean/Desktop/SANDBOX_SMDB7_CITIC_BR016210_自选内容组合下单一期_汪洋_CREATE_新增专区任选活动表_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210707.md",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210721.md",
+		"/Users/ocean/Desktop/SANDBOX_SMDB7_CITIC_BR015815_中信小程序一期_贾龙_CREATE_新增礼品卡货架相关五张表_ROLLBACK.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB7_CITIC_BR015815_中信小程序一期_贾龙_CREATE_新增礼品卡货架相关五张表_UPDATE.sql",
+		"/Users/ocean/Downloads/RandomPickWeight.java",
+		"/Users/ocean/Downloads/naozhong.svg",
+		"/Users/ocean/Downloads/clock/index.html",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/75cf7258e3e8061c6823438747581071/File/RandomPickWeight.java",
+		"/Users/ocean/Desktop/campaign.base/META-INF/maven/com.huawei.jaguar/campaign.base/pom.properties",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.fOPytY/BetterZip临时文件夹.9eNftF/META-INF/maven/com.huawei.jaguar/campaign.base/pom.properties",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210804.md",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/线网问题总结/sql文件/营销sql整理.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB6_CMPDB_闯关任务_修复闯关任务关联_汪洋_BACKUP_批量更新数据_UPDATE.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB6_CMPDB_闯关任务_修复闯关任务关联_汪洋_REPAIR_批量更新数据_ROLLBACK.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB6_CMPDB_闯关任务_修复闯关任务关联_汪洋_REPAIR_批量更新数据_UPDATE.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB6_CMPDB_用户组导入_修复用户组出组时间_汪洋_BACKUP_批量更新数据_UPDATE.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB6_CMPDB_用户组导入_修复用户组出组时间_汪洋_REPAIR_批量更新数据_ROLLBACK.sql",
+		"/Users/ocean/Desktop/SANDBOX_SMDB6_CMPDB_用户组导入_修复用户组出组时间_汪洋_REPAIR_批量更新数据_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/模版文件/新增TimerJob脚本/SANDBOX_SMDB11_TIMERJOB_BR010559_小程序新用户判断需求_汪洋_BACKUP_新增数据_UPDATE.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/模版文件/新增TimerJob脚本/SANDBOX_SMDB11_TIMERJOB_BR010559_小程序新用户判断需求_汪洋_REPAIR_新增数据_ROLLBACK.sql",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/模版文件/新增TimerJob脚本/SANDBOX_SMDB11_TIMERJOB_BR010559_小程序新用户判断需求_汪洋_REPAIR_新增数据_UPDATE.sql",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.oR5ToJ/BetterZip临时文件夹.Sws9xa/portalapi1",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.fl289Z/BetterZip临时文件夹.phhXFg/portalapi",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.6hEeeO/BetterZip临时文件夹.RI1GCH/portalapi",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.q4phAJ/BetterZip临时文件夹.CJEALi/portalapi",
+		"/Users/ocean/Downloads/text.txt",
+		"/usr/local/Cellar/maven/3.6.3_1/libexec/conf/settings.xml",
+		"/Users/ocean/.m2/settings.xml",
+		"/Users/ocean/Downloads/cmread_jar.txt",
+		"/Users/ocean/Desktop/cmread_jar.txt",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/b00a9cb9302040c21c52031c1dc4a052/File/settings.xml",
+		"/Users/ocean/Desktop/xml.xml",
+		"/Library/WebServer/Documents/proxy.pac.xml",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/xml.xml",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.9QjBFA/BetterZip临时文件夹.7b4HSi/portalapi11",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.9iB9Sf/BetterZip临时文件夹.dPfCdw/response 2",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.MROMyM/BetterZip临时文件夹.PlNjYC/portalapi",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.6GF7Hv/BetterZip临时文件夹.QUDTr7/response",
+		"/Users/ocean/Desktop/cmread/portalapi%3fcontentId%3d661152671%26chapterId%3d661152699 2",
+		"/Users/ocean/Desktop/cmread/portalapi%3fcontentId%3d661152671%26chapterId%3d661154603 2",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.Cje6in/BetterZip临时文件夹.ngjeW1/response 3",
+		"/Users/ocean/Desktop/cmread/portalapi%3fcontentId%3d661152671%26chapterId%3d661154607 2",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.IEJ0Jm/BetterZip临时文件夹.CJkKrc/portalapi-video",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.Gk7q90/BetterZip临时文件夹.jYy1Ea/portalapi",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.vqGXQ7/BetterZip临时文件夹.YOWG02/portalapi",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.XxxEY3/BetterZip临时文件夹.oRbTXu/response",
+		"/private/var/folders/9n/pqdxjs017w9920skhbjtv6h40000gn/T/BetterZip临时文件夹.HpY00G/BetterZip临时文件夹.0sD1Do/response",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/response",
+		"/Users/ocean/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/88c52dca2b54739c86e85deb9ac23cf8/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/File/response(1)",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/CMR210608.md",
+		"/Users/ocean/Documents/workplace/mystudywork/tauri-app/baidu_mindmap/src-tauri/target/release/bundle/dmg/bundle_dmg.sh",
+		"/Users/ocean/Desktop/test.md",
+		"/Users/ocean/Documents/test.md",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/版本开发记录/2021-04-30定位问题.md",
+		"/Users/ocean/Downloads/中心主题.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/kityminder-editor/index.html",
+		"/Users/ocean/Documents/workplace/go/my-go-project/kityminder-editor/package.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/vue-mindeditor/package.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/otp-frontend/package.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/vue-minder/__test__/index.html",
+		"/Users/ocean/Downloads/font_2121455_jnfrkgt5ib.svg",
+		"/Users/ocean/Downloads/font_2288405_5albrzwgfl3.svg",
+		"/Users/ocean/Documents/workplace/go/my-go-project/naotu/diy.js",
+		"/Users/ocean/Downloads/《被时间奴役着的生物们》大纲.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/mind-mark/frontend/package.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/Case_Minder_Vue/package.json",
+		"/Users/ocean/Documents/workplace/go/my-go-project/Case_Minder_Vue/node_modules/opn/index.js",
+		"/Users/ocean/Documents/workplace/go/my-go-project/naotu/index.html",
+		"/Users/ocean/Documents/workplace/go/my-go-project/mindmap/frontend/src/main.js",
+		"/Users/ocean/Documents/workplace/go/my-go-project/KityMinder-Editor/index.html",
+		"/Users/ocean/Documents/workplace/mystudywork/DeskGap.app/Contents/Resources/app/main.js",
+		"/Users/ocean/Documents/workplace/mystudywork/DeskGap.app/Contents/Resources/app/naotu/diy.js",
+		"/Users/ocean/Documents/workplace/mystudywork/tauri-app/baidu_mindmap/package.json",
+		"/Users/ocean/Documents/workplace/work/Papers/工作记录/模版文件/ftl转测模版.ftl",
+		"/Users/ocean/Downloads/jjword/使用前必看.txt",
+		"/Users/ocean/Desktop/mind.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 232.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/ocean/Documents/workplace/mystudywork/project-rust"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 169.0
+	},
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"leet-code/src/main.rs"
+			],
+			[
+				"toml",
+				"leet-code/Cargo.toml"
+			],
+			[
+				"main",
+				"leet-code/src/main.rs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
