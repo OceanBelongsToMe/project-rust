@@ -1,13 +1,13 @@
 use leet_code::fibonacci::{self, memo};
-use std::io;
+// use std::io;
 
 fn main() {
     println!("Please input your guess.");
     let mut guess = String::new();
-    io::stdin()
-        .read_line(&mut guess)
-        .expect("Failed to read line");
-
+    // io::stdin()
+    //     .read_line(&mut guess)
+    //     .expect("Failed to read line");
+    guess.push_str("184");
     let guess: usize = guess.trim().parse().expect("Please type a number!");
     println!("you give number is {:?}", guess);
     // println!("{}", fibonacci::fib(guess));
