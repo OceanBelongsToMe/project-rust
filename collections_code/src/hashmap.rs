@@ -9,6 +9,7 @@ pub fn new_hashmap() {
     new_map.insert(&s, 4);
     println!("{:?}", new_map);
 }
+/// 通过解引符号，能修改变量值
 pub fn get_from_map() {
     let text = "hello world wonderful world";
     let mut map = HashMap::new();
