@@ -14,7 +14,7 @@ pub mod fibonacci {
                 return n as i128;
             }
             let mut memo: Vec<i128> = vec![0; n + 1];
-            return helper(&mut memo, n);
+            helper(&mut memo, n)
         }
         fn helper(memo: &mut Vec<i128>, n: usize) -> i128 {
             if n == 1 || n == 2 {
@@ -23,8 +23,7 @@ pub mod fibonacci {
             if memo[n] != 0 {
                 return memo[n];
             }
-            memo[n] = helper(memo, n - 1) + helper(memo, n - 2);
-            memo[n]
+            helper(memo, n - 1) + helper(memo, n - 2)
         }
     }
 
