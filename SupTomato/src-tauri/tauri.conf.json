@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "SupMarkdown",
+    "productName": "SupTomato",
     "version": "0.1.0"
   },
   "build": {
@@ -52,7 +52,7 @@
     },
     "windows": [
       {
-        "title": "SupMarkdown",
+        "title": "SupTomato",
         "decorations": true,
         "alwaysOnTop": false,
         "maximized": false,
