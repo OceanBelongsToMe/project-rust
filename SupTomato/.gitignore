@@ -1,6 +1,0 @@
-/node_modules/
-/public/build/
-*.lock
-/src-tauri/target/
-.DS_Store
-.idea/
