@@ -55,7 +55,7 @@
         "title": "SupTomato",
         "decorations": true,
         "alwaysOnTop": false,
-        "maximized": false,
+        "transparent": true,
         "fullscreen": false
       }
     ],
